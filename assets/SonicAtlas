@@ -1,0 +1,62 @@
+
+SonicAtlas.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Sonic1
+  rotate: false
+  xy: 1204, 876
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+Sonic2
+  rotate: false
+  xy: 1374, 1118
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+Sonic3
+  rotate: false
+  xy: 1898, 1646
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+Sonic4
+  rotate: false
+  xy: 2, 2
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+gameover (2)
+  rotate: false
+  xy: 2, 915
+  size: 1370, 768
+  orig: 1370, 768
+  offset: 0, 0
+  index: -1
+roca
+  rotate: false
+  xy: 2, 41
+  size: 402, 203
+  orig: 402, 203
+  offset: 0, 0
+  index: -1
+sonic_fondo
+  rotate: false
+  xy: 2, 246
+  size: 1200, 667
+  orig: 1200, 667
+  offset: 0, 0
+  index: -1
+start (2)
+  rotate: false
+  xy: 1374, 1157
+  size: 522, 526
+  orig: 522, 526
+  offset: 0, 0
+  index: -1
